@@ -14,5 +14,5 @@ Hi, I’m Eric!
 - Potentially build an app or website
 
 ## 📫 Connect with Me   
-- LinkedIn: linkedin.com/in/eric-lu-30b49a311 
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/eric-lu-30b49a311)
 - Email: Mr.EricTLu@gmail.com
